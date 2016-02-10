@@ -6,21 +6,21 @@
 
 @font-face {
     font-family: DK Face Your Fears;
-    src: url(DK Face Your Fears.ttf);
+    src: url('DK Face Your Fears.ttf');
 }
 
 body {
-  font-family: DK Face Your Fears;
+  font-family: 'DK Face Your Fears';
 }
 
 h1 {
-    font-family: DK Face Your Fears;
+    font-family: 'DK Face Your Fears';
     color: #B70B0B;
-    font-size: 65pt;
-    width: 1000;
-   text-align: center;
+    font-size: 60pt;
+    width: 1050px;
     font-weight: normal;
-    margin-top: 30px;
+    padding-top: 40px;
+    margin: auto;
 }
 
 img{
@@ -46,9 +46,8 @@ ul{
     position: absolute;
     width: 630px;
     height:300px;
-    margin-left: 30px,20px;
+    margin-left: 30px, 20px, 1px, 1px;
     top: 200px;
-    background-color: ;
 
 }
 
